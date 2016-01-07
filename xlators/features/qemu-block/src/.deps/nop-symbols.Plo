@@ -1,0 +1,4 @@
+nop-symbols.lo: ../../../../contrib/qemu/nop-symbols.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

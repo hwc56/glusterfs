@@ -1,0 +1,6 @@
+libglusterfs_la-execinfo.lo: ../../contrib/libexecinfo/execinfo.c \
+ /usr/include/stdc-predef.h ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
